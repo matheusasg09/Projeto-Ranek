@@ -20,11 +20,12 @@
 
 <p>O Ranek é um Ecommerce Totalmente funcional feito com Vue.js. Foi um projeto para aprofundamento dos conhecimentos do framework.</p>
 
-#### Nele contem os seguintes conhecimentos em Desenolvimento:
+#### Nele contem os seguintes conhecimentos:
 * Validção de Login;
-* Criação de usuario consumindo API REST;
+* Criação/Edição/Exclusão de usuário e de itens;
 * CRUD Completo com os verbos HTTP;
-* E Totalmente Reativo.
+* Consumo de API REST;
+* Totalmente Reativo.
 
 #### Visitar o site: [Ranek.com](https://ranek.origamid.dev/)
 
