@@ -1,12 +1,12 @@
 <h1 align="center">
-  CARAVAN
+  RANEK
 </h1>
 
 <p align="center">   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/matheusasg09/Projeto-Caravan">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/matheusasg09/Projeto-Ranek">
   
-  <a href="https://github.com/matheusasg09/Projeto-Caravan/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/matheusasg09/Projeto-Caravan">
+  <a href="https://github.com/matheusasg09/Projeto-Ranek/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/matheusasg09/Projeto-Ranek">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -18,7 +18,13 @@
 
 ## ◾ Projeto
 
-O Caravan é um projeto totalmente responsivo feito apenas com Bootstrap 4. O principal intuito era treinar e conhecer todos os componentes e ferramentas desta biblioteca.
+<p>O Ranek é um Ecommerce Totalmente funcional feito com Vue.js. Foi um projeto para aprofundamento dos conhecimentos do framework.</p>
+
+#### Nele contem os seguintes conhecimentos em Desenolvimento:
+* Validção de Login;
+* Criação de usuario consumindo API REST;
+* CRUD Completo com os verbos HTTP;
+* E Totalmente Reativo.
 
 #### Visitar o site: [Ranek.com](https://ranek.origamid.dev/)
 
@@ -26,7 +32,10 @@ O Caravan é um projeto totalmente responsivo feito apenas com Bootstrap 4. O pr
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [BOOTSTRAP 4](https://getbootstrap.com/)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JAVASCRIPT](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [VUE.JS](https://br.vuejs.org/index.html)
 
 ## ◾ Licença
 
