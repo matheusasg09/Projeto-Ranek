@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img alt="Frontend" src="img/Caravan-git.png" width="70%">
+  <img alt="Frontend" src="public/ranek-git.png" width="80%">
 </p>
 
 ## ◾ Projeto
